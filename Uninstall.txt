@@ -1,0 +1,23 @@
+UNINSTALL INSTRUCTIONS
+
+1) HOW TO UNINSTALL FREE YOUTUBE DOWNLOADER
+
+FREE YOUTUBE DOWNLOADER can be removed from Windows by clicking the Add/Remove Programs icon in the Windows Control Panel:
+
+1.1  Open Control Panel. 
+
+If you are using Windows XP default Start menu, from the Start menu, click Control Panel. 
+If you are using the Classic Start Menu, from the Start menu, point to Settings, and then click Control Panel.
+
+1.2  In Control Panel, open Add or Remove Programs. 
+
+If you are in Category View, click Add or Remove Programs. 
+If you are in Classic View, double-click Add or Remove Programs.
+
+1.3.  In the Add or Remove Programs window, click on FREE YOUTUBE DOWNLOADER icon and then click Change/Remove. 
+
+2) HOW TO UNINSTALL THIRD PARTY SOFTWARE BUNDLED WITH FREE YOUTUBE DOWNLOADER:
+
+Repeat the instructions for any third party software you wish to remove in addition to our product.
+
+
